@@ -1,3 +1,7 @@
+# Week 3 of FWDP - UI/UX design session 
+Note: This project is for educational purpose only. [Vegz]
+
+
 # Recommended next steps:
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 
