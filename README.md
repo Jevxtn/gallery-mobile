@@ -1,5 +1,3 @@
-# Week 3 of FWDP - UI/UX design session 
-Note: This project is for educational purpose only. [Vegz]
 
 
 # Recommended next steps:
